@@ -1,0 +1,1 @@
+This repo hosts a markdown template to assist with optimizing completeness when creating proposal documents. Mostly for software development proposal documents, but perhaps they may be applied more abstractly.
